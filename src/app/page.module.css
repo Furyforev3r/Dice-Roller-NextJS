@@ -1,0 +1,41 @@
+.title {
+  display: grid;
+  place-items: center;
+  background: var(--dark-blue);
+  padding: 1.8rem;
+  margin-bottom: 8rem;
+}
+
+.roller {
+  display: grid;
+  place-items: center;
+  grid-gap: 3rem;
+  margin-bottom: 1rem;
+  height: 45.2%;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(3, 5rem);
+  grid-gap: 0.1rem;
+}
+
+.buttonRoller {
+  background: var(--dark-blue);
+  border: 0.1rem solid var(--dark-purple-brown);
+  border-radius: 0.4em;
+  padding-block: 2rem;
+  cursor: pointer;
+}
+
+.buttonRoller:hover {
+  background: var(--dark-gray-blue);
+  transition: 0.8s;
+}
+
+.footer {
+  display: grid;
+  place-content: center;
+  background: var(--dark-blue);
+  height: 30%;
+}

@@ -1,0 +1,26 @@
+:root {
+  --dark-blue: #1F2732;
+  --dark-gray-blue: #383E4F;
+  --dark-purple-brown: #594F5D;
+  --dark-soft-violet: #706677;
+  --dark-gray-purple: #8E7E8B;
+  --dark-gray-lilac: #A899A5;
+  --text-white: #FFFFFF;
+  --text-light-gray: #D9D9D9;
+  --text-medium-gray: #CCCCCC;
+  --text-dark-gray: #AAAAAA;
+  --text-off-white: #EEEEEE;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: var(--text-white);
+}
+
+body {
+  height: 100dvh;
+  background: var(--dark-gray-blue);
+}
+
