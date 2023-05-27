@@ -1,13 +1,14 @@
 ![Dice Roller](https://i.pinimg.com/originals/62/d3/ce/62d3ce2e16000586faf6d7cea85dd5c4.jpg)
 
 # 🎲 | Dice Roller!
-+ **A simple dice roller made using NextJS!**
++ **A simple dice roller made using NextJS!
+Running on: https://dice-roller-next-js.vercel.app/**
 
 ## ℹ️ | Info
 
 **This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).**
 
-## 💻 | Getting Started
+## 💻 | Getting Started With The Development Verver
 
 **First, run the development server:**
 
