@@ -8,19 +8,22 @@ Running on: https://dice-roller-next-js.vercel.app/**
 
 **This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).**
 
-## 💻 | Getting Started With The Development Verver
 
-**First, run the development server:**
-
+# 📥 Installation
+**Clone the repository:**
+```bash
+git clone https://github.com/furyforev3r/todo-app-reactjs-typescript.git
+```
+**Install dependencies:**
+```bash
+npm install
+```
+# 🖥️ How to Run
+**Run the command:**
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
-
-**Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.**
+ **- Acess the application in the browser: `http://localhost:PORT`**
 
 **You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.**
 
